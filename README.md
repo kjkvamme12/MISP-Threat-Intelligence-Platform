@@ -2,10 +2,9 @@
 
 ## Objective
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+We will see a few common workflows for using a threat intelligence program. First we will take an alert about an IOC match from a threat feed and find more information (time, group, attack details). Second we will enter new information into a threat intelligence platform. Third, we will view IOCs matches across events both visually in Correlation Graph and in the text view in the main event page. 
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
 - Understand the role of the Threat Intelligence Platform in a SOC
 - Use the MISP Threat Intelligence Platform to search and investigate data from an alert for fast context gathering.
